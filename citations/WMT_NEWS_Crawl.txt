@@ -1,0 +1,27 @@
+@inproceedings{barrault-etal-2019-findings,
+    title = "Findings of the 2019 Conference on Machine Translation ({WMT}19)",
+    author = {Barrault, Lo{\"\i}c  and
+      Bojar, Ond{\v{r}}ej  and
+      Costa-juss{\`a}, Marta R.  and
+      Federmann, Christian  and
+      Fishel, Mark  and
+      Graham, Yvette  and
+      Haddow, Barry  and
+      Huck, Matthias  and
+      Koehn, Philipp  and
+      Malmasi, Shervin  and
+      Monz, Christof  and
+      M{\"u}ller, Mathias  and
+      Pal, Santanu  and
+      Post, Matt  and
+      Zampieri, Marcos},
+    booktitle = "Proceedings of the Fourth Conference on Machine Translation (Volume 2: Shared Task Papers, Day 1)",
+    month = aug,
+    year = "2019",
+    address = "Florence, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W19-5301",
+    doi = "10.18653/v1/W19-5301",
+    pages = "1--61",
+    abstract = "This paper presents the results of the premier shared task organized alongside the Conference on Machine Translation (WMT) 2019. Participants were asked to build machine translation systems for any of 18 language pairs, to be evaluated on a test set of news stories. The main metric for this task is human judgment of translation quality. The task was also opened up to additional test suites to probe specific aspects of translation.",
+}

@@ -6,9 +6,5 @@ Dataset will be hosted on 🤗 Datasets [here](https://huggingface.co/datasets/b
 
 | Dataset | Processing | Type | Language | Owner |
 | ---- | ----- | ----- | ------ | ----- |
-| AIBharat IndicCorp: contains 8.9 billion tokens from 12 Indian languages (including Indian English). | | | | |
-| Wikipedia Dumps | | | | |
-| Common Crawl | | | | |
-| OSCAR Corpus: Released in 2019, large-scaled processed CommonCrawl. | | | | |
-| WMT Common Crawl Dumps: Crawls between 2012 and 2016. Noisy text, needs to be filtered. | | | | |
-| CC-100 Corpus:  | | | | |
+| [AIBharat IndicCorp](https://ai4bharat.iitm.ac.in/corpora) | In Process | Original Scraped | en-in, hi, as, bn, gu, kn, ml, mr, or, pa, ta, te | HC |
+| [CC-100 Corpus](https://data.statmt.org/cc-100/)  | In Process | Original, Romantized | as, bn, bn_rom, gu, hi, hi_rom, kn, ml, mr, ne, or, pa, sa, si, sd, ta, ta_rom, te, te_rom, ur, ur_rom | HC |
